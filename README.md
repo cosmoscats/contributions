@@ -29,3 +29,5 @@ Cosmos ecosystem news aggragator https://t.me/cosmos_cats_bot_tln
 twitter https://twitter.com/CosmosSignals
 
 main community https://t.me/cosmoscats
+
+mail admin@cosmoscats.org
