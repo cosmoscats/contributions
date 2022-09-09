@@ -1,5 +1,4 @@
-# contributions
-Our contributions to Cosmos Ecosystem
+# contributions to Cosmos Ecosystem
 
 Our project validates gravity bridge on mainnet and cheqd on mainnet.
 
