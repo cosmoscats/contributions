@@ -13,11 +13,11 @@ We are participating in following testnets live
 
 gnoland - https://test2.gno.land/r/users:cosmoscats
 
-sei network 
+sei network - https://sei.explorers.guru/validator/seivaloper19j75fymnjcgghcn0rhhjx654v0w22l70743ayf
 
-territori
+territori - https://teritori.explorers.guru/validator/torivaloper175c056hcu5d35vx8egv8qd25dd3dyjt8ncegja
 
-celestia
+celestia - https://celestia.explorers.guru/validator/celestiavaloper19pk6sckzn7y7lugk5s5njn39qtvca9g9jkg0d4
 
 
 
