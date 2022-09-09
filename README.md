@@ -24,4 +24,8 @@ Whale Cat monitoring big transactions on Cosmos Network https://t.me/cosmos_whal
 
 Cosmos ecosystem news aggragator https://t.me/cosmos_cats_bot_tln
 
-# Our twitter - https://twitter.com/CosmosSignals
+# Our socials
+
+twitter https://twitter.com/CosmosSignals
+
+main community https://t.me/cosmoscats
