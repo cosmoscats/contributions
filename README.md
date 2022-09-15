@@ -1,12 +1,16 @@
 # contributions to Cosmos Ecosystem
 
-# Our project validates gravity bridge on mainnet and cheqd on mainnet.
+# Our project validates gravity bridge, cheqd and Rebuschain on mainnet.
 
 here you can find our profile at gravity 
 https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1lmz8eygzpjkagsyqlh0e78djcf3mseell3qpdn
 
 here you can find our profile at cheqd 
 https://explorer.cheqd.io/validators/cheqdvaloper1wvpl7df3cgutzdm06dl7kjdh50945wayz5umnp
+
+here you can find our profile at rebuschain
+https://rebus.explorers.guru/validator/rebusvaloper10889xealx5s5fa36fzzretlq5k679htnk975w4
+
 
 # participating in following testnets live
 
