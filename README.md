@@ -22,6 +22,8 @@ territori - https://teritori.explorers.guru/validator/torivaloper175c056hcu5d35v
 
 celestia - https://celestia.explorers.guru/validator/celestiavaloper19pk6sckzn7y7lugk5s5njn39qtvca9g9jkg0d4
 
+lambda network - https://explorer.nodestake.top/lambda-testnet/staking/lambvaloper1rzqsc6n5xmd635vc7xkfa053lxdtc5624tsq0w
+
 # We are creators of telegram bots WhaleCat & Cosmos Cats Signal.
 
 Whale Cat monitoring big transactions on Cosmos Network https://t.me/cosmos_whalecat
