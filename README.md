@@ -1,30 +1,29 @@
 # contributions to Cosmos Ecosystem
 
-# Our project validates gravity bridge, cheqd, Teritori and Rebuschain on mainnet.
+# Our project validates gravity bridge, cheqd, Teritori, Lambda Network and Rebuschain on mainnet.
 
-here you can find our profile at gravity 
+here you can find our profile at Gravity 
 https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1lmz8eygzpjkagsyqlh0e78djcf3mseell3qpdn
 
-here you can find our profile at cheqd 
+here you can find our profile at Cheqd 
 https://explorer.cheqd.io/validators/cheqdvaloper1wvpl7df3cgutzdm06dl7kjdh50945wayz5umnp
 
 here you can find our profile at Teritori
 https://teritori.explorers.guru/validator/torivaloper1u95yrd65yr28v7yek0zchsadg5s3wklvcc9hzh
 
-here you can find our profile at rebuschain
+here you can find our profile at Rebuschain
 https://rebus.explorers.guru/validator/rebusvaloper10889xealx5s5fa36fzzretlq5k679htnk975w4
+
+here you can find our profile at Lambda network 
+https://explorer.nodestake.top/lambda/staking/lambvaloper1rzqsc6n5xmd635vc7xkfa053lxdtc5624tsq0w
 
 # participating in following testnets live
 
-gnoland - https://test2.gno.land/r/users:cosmoscats
+Gnoland - https://test2.gno.land/r/users:cosmoscats
 
-sei network - https://sei.explorers.guru/validator/seivaloper19j75fymnjcgghcn0rhhjx654v0w22l70743ayf
+Sei network - https://sei.explorers.guru/validator/seivaloper19j75fymnjcgghcn0rhhjx654v0w22l70743ayf
 
-territori - https://teritori.explorers.guru/validator/torivaloper175c056hcu5d35vx8egv8qd25dd3dyjt8ncegja
-
-celestia - https://celestia.explorers.guru/validator/celestiavaloper19pk6sckzn7y7lugk5s5njn39qtvca9g9jkg0d4
-
-lambda network - https://explorer.nodestake.top/lambda-testnet/staking/lambvaloper1rzqsc6n5xmd635vc7xkfa053lxdtc5624tsq0w
+Celestia - https://celestia.explorers.guru/validator/celestiavaloper19pk6sckzn7y7lugk5s5njn39qtvca9g9jkg0d4
 
 # We are creators of telegram bots WhaleCat & Cosmos Cats Signal.
 
