@@ -27,8 +27,6 @@ Gnoland - https://test2.gno.land/r/users:cosmoscats
 
 Sei network - https://sei.explorers.guru/validator/seivaloper19j75fymnjcgghcn0rhhjx654v0w22l70743ayf
 
-Celestia - https://celestia.explorers.guru/validator/celestiavaloper19pk6sckzn7y7lugk5s5njn39qtvca9g9jkg0d4
-
 # We are creators of telegram bots WhaleCat & Cosmos Cats Signal.
 
 Whale Cat monitoring big transactions on Cosmos Network https://t.me/cosmos_whalecat
