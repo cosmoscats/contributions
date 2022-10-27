@@ -31,7 +31,7 @@ Sei network - https://sei.explorers.guru/validator/seivaloper19j75fymnjcgghcn0rh
 
 Whale Cat monitoring big transactions on Cosmos Network https://t.me/cosmos_whalecat
 
-Cosmos ecosystem news aggragator https://t.me/cosmos_cats_bot_tln
+Cosmos ecosystem news aggregator https://t.me/cosmos_cats_bot_tln
 
 # Our socials
 
