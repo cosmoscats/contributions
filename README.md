@@ -1,9 +1,12 @@
 # contributions to Cosmos Ecosystem
 
-# Our project validates gravity bridge, cheqd, Teritori, Lambda Network and Rebuschain on mainnet.
+# Our project validates Gravity Bridge, Umee, Cheqd, Teritori, Lambda Network and Rebuschain on mainnet.
 
 here you can find our profile at Gravity 
 https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1lmz8eygzpjkagsyqlh0e78djcf3mseell3qpdn
+
+here you can find our profile at Umee
+https://www.mintscan.io/umee/validators/umeevaloper1xa3rtquya70le5tuq7f4gnvx0v8shmdm67wcs6
 
 here you can find our profile at Cheqd 
 https://explorer.cheqd.io/validators/cheqdvaloper1wvpl7df3cgutzdm06dl7kjdh50945wayz5umnp
@@ -16,6 +19,7 @@ https://rebus.explorers.guru/validator/rebusvaloper10889xealx5s5fa36fzzretlq5k67
 
 here you can find our profile at Lambda network 
 https://explorer.nodestake.top/lambda/staking/lambvaloper1rzqsc6n5xmd635vc7xkfa053lxdtc5624tsq0w
+
 
 # participating in following testnets live
 
