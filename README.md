@@ -23,7 +23,6 @@ https://rebus.explorers.guru/validator/rebusvaloper10889xealx5s5fa36fzzretlq5k67
 here you can find our profile at Lambda network 
 https://explorer.nodestake.top/lambda/staking/lambvaloper1rzqsc6n5xmd635vc7xkfa053lxdtc5624tsq0w
 
-
 # participating in following testnets live
 
 Gnoland - https://test2.gno.land/r/users:cosmoscats
@@ -40,8 +39,10 @@ Cosmos ecosystem news aggregator https://t.me/cosmos_cats_bot_tln
 
 # Our socials
 
-twitter https://twitter.com/CosmosSignals
+twitter https://twitter.com/iCosmosCats
 
-main community https://t.me/cosmoscats
+main telegram community https://t.me/cosmoscat
 
-mail admin@cosmoscats.org
+rus telegram community https://t.me/cosmoscats
+
+mail cosmoscats@pm.me
