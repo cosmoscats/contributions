@@ -37,8 +37,8 @@ Cosmos ecosystem news aggregator https://t.me/cosmos_cats_bot_tln
 
 twitter https://twitter.com/iCosmosCats
 
-main telegram community https://t.me/cosmoscat
-
 rus telegram community https://t.me/cosmoscats
+
+international telegram community https://t.me/cosmoscat
 
 mail cosmoscats@pm.me
