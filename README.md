@@ -1,6 +1,6 @@
 # contributions to Cosmos Ecosystem
 
-# Our project validates Gravity Bridge, Umee, Crescent, Cheqd, Teritori, Lambda Network and Rebuschain on mainnet.
+# Our project validates Gravity Bridge, Umee, Evmos, Crescent, Cheqd, Teritori, Lambda Network, Haqq and Rebuschain on mainnet.
 
 here you can find our profile at Gravity 
 https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1lmz8eygzpjkagsyqlh0e78djcf3mseell3qpdn
