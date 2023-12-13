@@ -8,6 +8,9 @@ https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1lmz8eygzpjkagsy
 profile at Umee
 https://www.mintscan.io/umee/validators/umeevaloper1xa3rtquya70le5tuq7f4gnvx0v8shmdm67wcs6
 
+profile at Evmos
+https://www.mintscan.io/evmos/validators/evmosvaloper1jkqgnx9y8jm9gu6r56686f5s4hjmuvkau8w6zt
+
 profile at Crescent
 https://www.mintscan.io/crescent/validators/crevaloper1ldfs26e2g6t007wz7j9jhgylazrjnjqw7uhlf2
 
