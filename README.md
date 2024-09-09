@@ -1,15 +1,12 @@
 # contributions to Cosmos Ecosystem
 
-# Our project validates Gravity Bridge, Umee, Evmos, Cheqd, Teritori, Haqq, and Paloma on mainnet.
+# Our project validates Gravity Bridge, Umee, Cheqd, Teritori, Haqq, and Paloma on mainnet.
 
 here you can find our profile at Gravity 
 https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1lmz8eygzpjkagsyqlh0e78djcf3mseell3qpdn
 
 profile at Umee
 https://www.mintscan.io/umee/validators/umeevaloper1xa3rtquya70le5tuq7f4gnvx0v8shmdm67wcs6
-
-profile at Evmos
-https://www.mintscan.io/evmos/validators/evmosvaloper1jkqgnx9y8jm9gu6r56686f5s4hjmuvkau8w6zt
 
 profile at Cheqd 
 https://explorer.cheqd.io/validators/cheqdvaloper1wvpl7df3cgutzdm06dl7kjdh50945wayz5umnp
