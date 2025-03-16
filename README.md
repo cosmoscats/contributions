@@ -5,8 +5,8 @@
 here you can find our profile at Gravity 
 https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1lmz8eygzpjkagsyqlh0e78djcf3mseell3qpdn
 
-profile at Umee
-https://www.mintscan.io/umee/validators/umeevaloper1xa3rtquya70le5tuq7f4gnvx0v8shmdm67wcs6
+profile at UX (Umee)
+https://ux.explorers.guru/validator/umeevaloper1xa3rtquya70le5tuq7f4gnvx0v8shmdm67wcs6
 
 profile at Cheqd 
 https://explorer.cheqd.io/validators/cheqdvaloper1wvpl7df3cgutzdm06dl7kjdh50945wayz5umnp
@@ -19,10 +19,6 @@ https://haqq.exploreme.pro/validator/haqqvaloper1735q3s9ydwzy7fn9q7ng2n9u8dguvdm
 
 profile at Paloma
 https://paloma.explorers.guru/validator/palomavaloper1qxl8xy0rjl99zhaxgu4ffuegup9mh6qxdmcwkg
-
-# participating in following testnets live
-
-Gnoland - https://test2.gno.land/r/users:cosmoscats
 
 # We are creators of telegram bots WhaleCat & Cosmos Cats Signal.
 
