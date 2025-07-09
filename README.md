@@ -14,9 +14,6 @@ https://explorer.cheqd.io/validators/cheqdvaloper1wvpl7df3cgutzdm06dl7kjdh50945w
 profile at Teritori
 https://teritori.explorers.guru/validator/torivaloper1u95yrd65yr28v7yek0zchsadg5s3wklvcc9hzh
 
-profile at HAQQ
-https://haqq.exploreme.pro/validator/haqqvaloper1735q3s9ydwzy7fn9q7ng2n9u8dguvdmjk34fxz
-
 profile at Paloma
 https://paloma.explorers.guru/validator/palomavaloper1qxl8xy0rjl99zhaxgu4ffuegup9mh6qxdmcwkg
 
